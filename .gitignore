@@ -1,0 +1,23 @@
+# Keil MDK build output
+MDK-ARM/PT_head_TMC2209/
+
+# compiled/listing artifacts
+*.o
+*.crf
+*.d
+*.axf
+*.dep
+*.lst
+*.map
+*.htm
+*.lnp
+*.sct
+*.hex
+
+# Keil user-specific files
+*.uvguix.*
+*.uvoptx.bak
+
+# build logs
+codex_build*.log
+JLinkLog.txt
